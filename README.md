@@ -10,5 +10,6 @@ Interface
 
 Formats
 
-- [ ] JSON
+- [ ] JSON need to update slowjson code base on interface
 - [ ] YAML https://github.com/goccy/go-yaml
+- [ ] TOML https://github.com/pelletier/go-toml?tab=readme-ov-file#contextualized-errors
